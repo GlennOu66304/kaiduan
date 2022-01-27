@@ -1,5 +1,4 @@
-Mac Pro: Wechat,Geektime
-Mac Air
+
 
 ## Python Code writing
 
