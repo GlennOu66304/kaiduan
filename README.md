@@ -33,6 +33,9 @@ You need to use the code below to install the package:
 ```
 python -m pip install numpy
 python -m pip list
+
+python3 -m pip install numpy
+python3 -m pip list
 ```
 [pip在虚拟环境安装python包却安装在全局/真实环境](https://blog.csdn.net/weixin_43256057/article/details/105357133?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_default&utm_relevant_index=1)  
 [Python报错ModuleNotFoundError: No module named 'numpy'](https://blog.csdn.net/qq_39779233/article/details/103224712)    
